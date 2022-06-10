@@ -1,0 +1,64 @@
+body{
+  background-image: url("background.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  font-family:sans-serif;
+  font-weight: lighter;
+  padding: 10%;
+  color: white;
+}
+
+form{
+  background-color: rgba(0, 0, 0, 0.75);
+  padding: 10%;
+  border-radius: 25px;
+}
+
+header, nav{
+  text-align: center;
+}
+
+nav{
+  background-color: rgba(0,221,0,255);
+  padding: 1%;
+}
+
+section{
+  margin-top: 5%;
+  width: 60%;
+}
+
+img{
+  width:50%;
+}
+
+h1{
+  color: rgba(0,221,0,255);
+}
+
+h2{
+  display: inline;
+}
+
+span{
+  display: block;
+  border-radius: 5px;
+}
+
+.Yellow{
+  background-color: rgba(245,180,83,255);
+  height: 25px;
+  width: 60%;
+}
+
+.Green{
+  background-color: rgba(30,195,30,255);
+  height: 25px;
+  width: 100%;
+}
+
+.Red{
+  background-color: rgba(190,65,65,255);
+  height: 25px;
+  width: 30%;
+}
